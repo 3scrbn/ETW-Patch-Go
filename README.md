@@ -8,15 +8,20 @@ To clarify, the patches applied at the start of the functions "EtwEventWriteFull
 
 Below, I’ve included images showing how the functions look in Windows 10 and in Windows 11 24H2 and later.
 
+Windows 10 EtwEventWrite
 ![EtwEventWrite Windows 10](./win10/EtwEventWrite.png)
 
+Windows 10 EtwEventWriteEx
 ![EtwEventWriteEx Windows 10](./win10/EtwEventWriteEx.png)
 
+Windows 10 EtwEventWriteFull
 ![EtwEventWriteFull Windows 10](./win10/EtwEventWriteFull.png)
 
-
+Windows 11 EtwEventWrite
 ![EtwEventWrite Windows 11](./win11/EtwEventWrite.png)
 
+Windows 11 EtwEventWriteEx
 ![EtwEventWriteEx Windows 11](./win11/EtwEventWriteEx.png)
 
+Windows 11 EtwEventWriteFull
 ![EtwEventWriteFull Windows 11](./win11/EtwEventWriteFull.png)
